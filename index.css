@@ -2,6 +2,14 @@ body{
     background-image: url("akan.jpeg");
     background-size: cover;
 }
+
+a:hover{
+    border-top: 5px solid rgb(5, 5, 5);
+    background-color: greenyellow;
+    color: black;  
+    padding-right: 10px; 
+}
+
 p{
     color: yellowgreen;
 }
