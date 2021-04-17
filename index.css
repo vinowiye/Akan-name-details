@@ -4,9 +4,15 @@ p{
 .gender{
     color: blue;
 }
+
 .year{
     color: green;
 }
+
 .month{
+    color: green;
+}
+
+.day{
     color: green;
 }
